@@ -1,2 +1,2 @@
 # DSAI_BDT_PART-I
-All the Practicals of Big Data
+This repository is a journal which contains all the Practicals of Big Data for Sem II
